@@ -1,4 +1,4 @@
-<a href="https://t.me/wahid_abduhakimov"><img src="34f9c20179ef29ce7b8c1f52359cf9d3-sticker.png" align="right" height="200"/></a>
+<a href="https://t.me/muxammad_ali_21"><img src="34f9c20179ef29ce7b8c1f52359cf9d3-sticker.png" align="right" height="200"/></a>
 
 # Hi there, I'm Muxammad Ali 👋
 
@@ -37,15 +37,15 @@
 
 <div align="center">
 <a href="">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=wahid-d&count_private=true&include_all_commits=true&show_icons=true&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=muxammadali001&count_private=true&include_all_commits=true&show_icons=true&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28" />
 <a />
 <div>
  <br/>
 
-[![Wahid's Streak](https://github-readme-streak-stats.herokuapp.com?user=wahid-d&theme=dark&date_format=M%20j%5B%2C%20Y%5D&border=FFFFFF&ring=3722DD)](https://git.io/streak-stats)
+[![Wahid's Streak](https://github-readme-streak-stats.herokuapp.com?user=muxammadali001&theme=dark&date_format=M%20j%5B%2C%20Y%5D&border=FFFFFF&ring=3722DD)](https://git.io/streak-stats)
 
-[![](https://komarev.com/ghpvc/?username=wahid-d&color=orange&label=Profile%20Views)](https://github.com/wahid-d/wahid-d)
-[![](https://img.shields.io/github/followers/wahid-d?label=GitHub%20Followers)](https://github.com/wahid-d)
+[![](https://komarev.com/ghpvc/?username=muxammadali001&color=orange&label=Profile%20Views)](https://github.com/muxammadali001/muxammadali001)
+[![](https://img.shields.io/github/followers/muxammadali001?label=GitHub%20Followers)](https://github.com/muxammadali001)
 
 <!--
 **muxammad_ali_21/muxammad_ali_21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
