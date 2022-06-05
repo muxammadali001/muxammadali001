@@ -7,7 +7,7 @@
 
 <p align="end">
 <a href="https://www.linkedin.com/in/muxammad-ali-sobirov-777746220/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-gray?style=flat-square&logo=linkedin"></a>
-<a href="https://t.me/muxammad_ali_21"><img alt="Telegram" src="https://img.shields.io/badge/telegram-gray?style=flat-square&logo=telegram"></a>
+<a href="https://t.me/Muhammad_Ali_ibn_Ismail"><img alt="Telegram" src="https://img.shields.io/badge/telegram-gray?style=flat-square&logo=telegram"></a>
 <a href="https://www.instagram.com/muxammad_ali_21/"><img alt="Instagram" src="https://img.shields.io/badge/instagram-gray?style=flat-square&logo=instagram"></a>
 <a href="https://www.facebook.com/muxammadali.sobirov.12/"><img alt="Facebook" src="https://img.shields.io/badge/facebook-gray?style=flat-square&logo=facebook"></a>
 </p>
